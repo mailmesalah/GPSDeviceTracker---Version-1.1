@@ -1,0 +1,1 @@
+refresh the socket list for removing not working socket in a periodic manner
